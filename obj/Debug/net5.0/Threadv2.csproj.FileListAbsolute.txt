@@ -1,0 +1,16 @@
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.AssemblyInfoInputs.cache
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.AssemblyInfo.cs
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.exe
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.deps.json
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.runtimeconfig.json
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.runtimeconfig.dev.json
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.dll
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\ref\Threadv2.dll
+C:\Users\smics\Desktop\Threadv2\bin\Debug\net5.0\Threadv2.pdb
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.dll
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\ref\Threadv2.dll
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.pdb
+C:\Users\smics\Desktop\Threadv2\obj\Debug\net5.0\Threadv2.genruntimeconfig.cache
